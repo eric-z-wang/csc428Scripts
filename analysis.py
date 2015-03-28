@@ -1,4 +1,3 @@
-INPUT_DEVICE = "stylus"
 task1_result = {"stylus":[], "mouse":[]}
 task2_part1_result = {"stylus":{"time":[], "error":[]}, "mouse":{"time":[], "error":[]}}
 task2_part2_result = {"stylus":{"time":[], "error":[]}, "mouse":{"time":[], "error":[]}}
@@ -14,19 +13,32 @@ def analyze(file):
     line = file.readline()
     while line:
         if "Start tracking" in line:
-            if "Task 1" in line:
-                file = task1(file, INPUT_DEVICE)
-            elif "Task 2" in line:
+            if "task1a" in line:
+                file = task1(file, "stylus")
+            elif "task2a" in line:
                 if "Part 1" in line:
-                    file = task2_part1(file, INPUT_DEVICE)
+                    file = task2_part1(file, "stylus")
                 elif "Part 2" in line:
-                    file = task2_part2(file, INPUT_DEVICE)
+                    file = task2_part2(file, "stylus")
                 elif "Part 3" in line:
-                    file = task2_part3(file, INPUT_DEVICE)
+                    file = task2_part3(file, "stylus")
                 elif "Part 4" in line:
-                    file = task2_part4(file, INPUT_DEVICE)
+                    file = task2_part4(file, "stylus")
                 elif "Part 5" in line:
-                    file = task2_part5(file, INPUT_DEVICE)
+                    file = task2_part5(file, "stylus")
+            elif "task1b" in line:
+                file = task1(file, "mouse")
+            elif "task2b" in line:
+                if "Part 1" in line:
+                    file = task2_part1(file, "mouse")
+                elif "Part 2" in line:
+                    file = task2_part2(file, "mouse")
+                elif "Part 3" in line:
+                    file = task2_part3(file, "mouse")
+                elif "Part 4" in line:
+                    file = task2_part4(file, "mouse")
+                elif "Part 5" in line:
+                    file = task2_part5(file, "mouse")
         line = file.readline()
             
          

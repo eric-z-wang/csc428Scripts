@@ -429,7 +429,7 @@ Navigated to file:///Users/madelaine/Downloads/csc428-master-2/views/task3a.html
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723787517: x:574, y:244
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723787654: x:574, y:243
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723787717: x:575, y:243
-/Users/madelaine/Downloads/csc428-master-2/js/task3a.js:252 Stop tracking information: Task 2, Part 1 completed in 1 attempt[s].
+/Users/madelaine/Downloads/csc428-master-2/js/task3a.js:252 Stop tracking information: Task 3, Part 1 completed in 1 attempt[s].
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:240 MouseEvent {dataTransfer: null, which: 1, toElement: canvas#myCanvas.task3, fromElement: null, y: 257…}
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:242 Start tracking information: Task 3, Part 2, Attempt 1
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723788545: x:577, y:256
@@ -1406,9 +1406,9 @@ Navigated to file:///Users/madelaine/Downloads/csc428-master-2/views/task3a.html
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723815663: x:475, y:548
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723815812: x:475, y:548
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:268 Timestamp: 1426723815831: x:475, y:547
-/Users/madelaine/Downloads/csc428-master-2/js/task3a.js:252 Stop tracking information: Task 2, Part 4 completed in 1 attempt[s].
+/Users/madelaine/Downloads/csc428-master-2/js/task3a.js:252 Stop tracking information: Task 3, Part 4 completed in 1 attempt[s].
 /Users/madelaine/Downloads/csc428-master-2/js/task3a.js:240 MouseEvent {dataTransfer: null, which: 1, toElement: canvas#myCanvas.task3, fromElement: null, y: 289…}
-/Users/madelaine/Downloads/csc428-master-2/js/task3a.js:260 Stop tracking information: Task 2, Part 4, Attempt 1 failed.
+/Users/madelaine/Downloads/csc428-master-2/js/task3a.js:260 Stop tracking information: Task 3, Part 4, Attempt 1 failed.
 Navigated to file:///Users/madelaine/Downloads/csc428-master-2/views/task4a.html
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:142 MouseEvent {dataTransfer: null, which: 1, toElement: canvas#myCanvas.task4, fromElement: null, y: 252…}
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:144 Start tracking information: Task 4, Part 1, Attempt 1
@@ -1536,9 +1536,9 @@ Navigated to file:///Users/madelaine/Downloads/csc428-master-2/views/task4a.html
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723822318: x:639, y:252
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723822334: x:639, y:251
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723822547: x:638, y:251
-/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:154 Stop tracking information: Task 2, Part 1 completed in 1 attempt[s].
+/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:154 Stop tracking information: Task 4, Part 1 completed in 1 attempt[s].
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:142 MouseEvent {dataTransfer: null, which: 1, toElement: canvas#myCanvas.task4, fromElement: null, y: 246…}
-/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:144 Start tracking information: Task 2, Part 2, Attempt 1
+/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:144 Start tracking information: Task 4, Part 2, Attempt 1
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723823696: x:531, y:247
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723823851: x:531, y:248
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723823873: x:533, y:248
@@ -1675,9 +1675,9 @@ Navigated to file:///Users/madelaine/Downloads/csc428-master-2/views/task4a.html
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723826383: x:523, y:252
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723826423: x:524, y:252
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723826468: x:525, y:252
-/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:154 Stop tracking information: Task 2, Part 2 completed in 1 attempt[s].
+/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:154 Stop tracking information: Task 4, Part 2 completed in 1 attempt[s].
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:142 MouseEvent {dataTransfer: null, which: 1, toElement: canvas#myCanvas.task4, fromElement: null, y: 150…}
-/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:144 Start tracking information: Task 2, Part 3, Attempt 1
+/Users/madelaine/Downloads/csc428-master-2/js/task4a.js:144 Start tracking information: Task 4, Part 3, Attempt 1
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723827829: x:528, y:150
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723827847: x:531, y:149
 /Users/madelaine/Downloads/csc428-master-2/js/task4a.js:170 Timestamp: 1426723827863: x:539, y:148
