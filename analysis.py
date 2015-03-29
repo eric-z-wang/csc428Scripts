@@ -1,3 +1,4 @@
+#!/bin/env python3.0
 import math
 task1_result = {"stylus":[], "mouse":[]}
 task2_part1_result = {"stylus":{"time":[], "error":[]}, "mouse":{"time":[], "error":[]}}
@@ -168,13 +169,13 @@ if __name__ == "__main__":
         analyze(f)
     
     
-    print "task1:", task1_result,'\n'
-    print "task2.1:", task2_part1_result,'\n'
-    print "task2.2:", task2_part2_result,'\n'
-    print "task2.3:", task2_part3_result,'\n'
-    print "task2.4:", task2_part4_result,'\n'
-    print "task2.5:", task2_part5_result,'\n'
-    print "task4.1:", task4_part1_result,'\n'
-    print "task4.2:", task4_part2_result,'\n'
-    print "task4.3:", task4_part3_result,'\n'
+    print ("task1:", task1_result,'\n')
+    print ("task2.1:", task2_part1_result,'\n')
+    print ("task2.2:", task2_part2_result,'\n')
+    print ("task2.3:", task2_part3_result,'\n')
+    print ("task2.4:", task2_part4_result,'\n')
+    print ("task2.5:", task2_part5_result,'\n')
+    print ("task4.1:", task4_part1_result,'\n')
+    print ("task4.2:", task4_part2_result,'\n')
+    print ("task4.3:", task4_part3_result,'\n')
     
